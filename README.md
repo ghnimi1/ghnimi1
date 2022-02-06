@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ghnimi1
-- 👀 I’m interested in in technology
+- 👀 I’m interested in technology
 - 🌱 I’m currently learning Nodejs/Reactjs
 - 📫 How to reach me ghnimih@gmail.com
