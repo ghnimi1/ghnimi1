@@ -3,7 +3,9 @@
 
 [![Linkedin:Hassen](https://img.shields.io/badge/-Hassen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ghnimi-hassen-43882086/)](https://www.linkedin.com/in/ghnimi-hassen-43882086/)
 ![GitHub followers](https://img.shields.io/github/followers/ghnimi1?label=Follow&style=social)
-<img alt = "profile views" src="https://komarev.com/ghpvc/?username=Yassin522&color=brightgreen">  
+<img alt = "profile views" src="https://komarev.com/ghpvc/?username=ghnimi1&color=brightgreen">  
+
+![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://user-images.githubusercontent.com/88105077/157883808-762a27a1-c1c5-447c-80a1-fb892f511393.png)
 
 ## 👨🏻‍💻 &nbsp;About Me
 
