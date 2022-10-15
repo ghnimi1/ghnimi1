@@ -15,6 +15,7 @@
 
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning Nodejs/Reactjs
+- 🌱 This is my portfolio [https://ghnimihassenportfolio.herokuapp.com](https://ghnimihassenportfolio.herokuapp.com)
 - 📫 How to reach me ghnimih@gmail.com
 
 
