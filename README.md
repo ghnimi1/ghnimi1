@@ -14,7 +14,7 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning Nodejs/Reactjs/Nextjs/VueJs
+- 🌱 I’m currently learning Nodejs/Reactjs/SpringBoot
 - 🌱 This is my portfolio [https://portfoliohassenghnimi.netlify.app/](https://portfoliohassenghnimi.netlify.app/)
 - 📫 How to reach me ghnimih@gmail.com
 
